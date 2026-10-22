@@ -60,4 +60,8 @@ As Assistant Team Lead, navigating the technical execution was only half the man
 * **Executive Synthesis:** Bridging the gap between raw data engineering and high-level business storytelling, ensuring our presentation architects had a bulletproof, mathematically certain narrative for the final stakeholder defense.
 
 ---
-📄 **[Click here to view the full Executive Presentation Slide Deck (PDF)](Link_to_your_PDF_in_the_repo)**
+### 📄 Executive Presentation Archive
+* **[Week 1: Social Media Autopsy](Presentations/POD%20C%20Afriment%20Presentation%20Week%20One%20Slide.pdf)**
+* **[Week 2: Funding Pipeline & Communities](Presentations/POD%20C%20WEEK%202%20PRESENTATION%20SLIDE.pdf)**
+* **[Week 3: Regional Skills Market Gap](Presentations/POD%20C_Week3_Slide.pdf)**
+* **[Week 4: Final Market Entry Strategy](Presentations/Afriment_Week4_Slide.pdf)**
