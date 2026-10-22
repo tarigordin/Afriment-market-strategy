@@ -48,7 +48,7 @@ Afriment required a data-backed market entry strategy, curriculum architecture, 
 
 ### 4. 12-Month Social Media Autopsy
 *Audited Afriment's LinkedIn performance to optimize content formats for maximum conversion.*
-
+![Social Media Autopsy](assets/slides/Slide_Social_Autopsy.png)
 **Strategic Outcome:** Proved that while the market relies on single images (yielding a low 0.20% engagement rate), Documents and Carousels drive up to 5x higher click-through rates. Shifted strategy toward named graduate outcomes and career advice carousels.
 
 ---
