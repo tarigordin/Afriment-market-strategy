@@ -1,4 +1,4 @@
-# Afriment-market-strategy
+# Afriment-Market-Strategy
 A 4-week data analytics and market entry strategy case study for Afriment, executed as Assistant Team Lead for Pod C.
 # Afriment Market Entry Strategy & B2B Pipeline Analysis
 
